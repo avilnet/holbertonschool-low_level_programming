@@ -2,7 +2,7 @@
 /**
  * main- print all combi of 3 digits.
  * Return: 0
- **/
+ */
 int main(void)
 {
 	int i;
