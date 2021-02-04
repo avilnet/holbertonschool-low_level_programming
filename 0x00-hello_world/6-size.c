@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - entry point
- * Return: 0
- */
+* main - entry point
+* Description: size of bytes
+* Return: 0
+*/
 int main(void)
 {
 	printf("Size of a int: %i byte(s)\n", sizeof(int));
