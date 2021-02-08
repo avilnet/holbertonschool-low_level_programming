@@ -6,7 +6,13 @@
  */
 int main(void)
 {
-	putchar('H');
-	putchar('o');
-	putchar('l');
-putchar}
+	char holberton[9] = "Holberton";
+	int i;
+
+	for (i = 0 ; i <= 9 ; i++)
+	{
+		putchar(holberton[i]);
+	}
+	putchar('\n');
+	return (0);
+}
