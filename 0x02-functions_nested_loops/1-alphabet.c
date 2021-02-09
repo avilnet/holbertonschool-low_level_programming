@@ -1,13 +1,14 @@
 #include "holberton.h"
 /**
  * main- print alphabet lowercase
- * REturn: 0
+ * Description: ASCII 97 - 122
+ * Return: 0
  */
 void print_alphabet(void)
 {
-	int i;
+	int i = 0;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (i = 97; i <= 122; i++)
 	{
 		_putchar(i);
 	}
