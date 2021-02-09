@@ -1,5 +1,4 @@
-#include <stdlib.h>
-#include <stdio.h>
+#include "holberton.h"
 /**
  * main- print Holberton
  * Return: 0
@@ -11,8 +10,8 @@ int main(void)
 
 	for (i = 0 ; i <= 9 ; i++)
 	{
-		putchar(holberton[i]);
+		_putchar(holberton[i]);
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
