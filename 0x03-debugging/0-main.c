@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * main _ test function
+ * main - test function that prints if integer is + or -
  * Return: 0
  */
 int main(void)
