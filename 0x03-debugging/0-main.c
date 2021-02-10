@@ -1,8 +1,11 @@
 #include "holberton.h"
+
 /**
  * main - test function that prints if integer is + or -
+ *
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
