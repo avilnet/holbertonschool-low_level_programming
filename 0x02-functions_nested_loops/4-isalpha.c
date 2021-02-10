@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * int _isalpha(int c) - check for alphabetic character
+ * _isalpha - check for alphabetic character
  * @c: is a int
  * main - check the code
  * Return: 0
