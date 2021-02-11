@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
  * main - test function that prints if integer is + or -
  *
